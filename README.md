@@ -14,10 +14,10 @@ We compare the Airbnb data for Boston and Seattle to answer the following 3 ques
 
 ## File Descriptions
 
-Airbnb.ipynb - The Jupyter notebook has all the code and the explanation of the flow necessary for this project.
-Airbnb.html - The HTML file is the same Jupyter notebook in HTML format.
-boston-airbnb-open-data.zip - Boston Airbnb data
-seattle.zip - Seattle Airbnb data
+1. Airbnb.ipynb - The Jupyter notebook has all the code and the explanation of the flow necessary for this project
+2. Airbnb.html - The HTML file is the same Jupyter notebook in HTML format
+3. boston-airbnb-open-data.zip - Boston Airbnb data
+4. seattle.zip - Seattle Airbnb data
 
 ## Interacting with this project
 
