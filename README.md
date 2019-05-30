@@ -14,7 +14,7 @@ We compare the Airbnb data for Boston and Seattle to answer the following 3 ques
 
 ## File Descriptions
 
-The Jupyter notebook has all the code and the explanation of the flow necessary for this project.
+The Jupyter notebook has all the code and the explanation of the flow necessary for this project. The HTML file is the same Jupyter notebook in HTML format.
 
 ## Interacting with this project
 
