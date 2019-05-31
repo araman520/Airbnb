@@ -23,6 +23,14 @@ We compare the Airbnb data for Boston and Seattle to answer the following 3 ques
 
 Running the Jupyter notebook will answer the questions posted above, and you can read the post about my findings [here](https://medium.com/@araman520/airbnb-a-boston-seattle-story-6bb52ebb56bc).
 
+## Results
+
+On average, Boston Airbnbs were $60 more expensive than Seattle in 2016.
+
+The South Boston Waterfront in Boston had the most expensive Airbnbs. For Seattle, Southeast Magnolia and Portage Bay were the most expensive.
+
+The fact if the listing is for an entire home or apartment is the most important factor in determining the price.
+
 ## Licensing, Authors, Acknowledgements
 
 The data used in this project can be found here - [Boston](https://www.kaggle.com/airbnb/boston), [Seattle](https://www.kaggle.com/airbnb/seattle/data).
